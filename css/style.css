@@ -1,19 +1,26 @@
-header{
+*{
     margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
     color: white;
     background-color: antiquewhite;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-
+    font-size: 40px;
+    padding: 15px;
 }
 span{
-    color: #f716d1;
-    /* text-shadow: 0 0 10px #fff,
-            0 0 20px #fff,
-            0 0 30px #fff,
-            0 0 40px #FF1177,
-            0 0 70px #FF1177,
-            0 0 80px #FF1177,
-            0 0 100px #FF1177,
-            0 0 150px #FF1177; */
+    color: #450ba1;
+   
+}
+footer{
+    color: white;
+    background-color: antiquewhite;
+    font-size: 15px;
+    padding: 15px;
+    text-align: left;
+    letter-spacing: 1px;
+}
+a{
+    text-decoration: none;
+    color: blue;
 }
